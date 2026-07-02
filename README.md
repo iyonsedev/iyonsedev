@@ -10,10 +10,8 @@ Hi, I'm iyonse, a computer science student passionate about development and tech
 - :pushpin: Interests: Artificial Intelligence, Cloud Computing, Hacking and Cybersecurity.
 
 
-
-
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = alt = "Profile Views"/>
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
