@@ -1,11 +1,16 @@
-<h1 align="center">Hola 👋, soy Iyonse</h1>
+## Iyonsedev
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.iyonseuchiha@gmail.com)](mailto:contato.iyonseuchiha@gmail.com)
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
 
+Hi, I'm Welton, a Electronics student passionate about development and entrepreneurship.
 
+- :books: I’m currently learning C, Typescript, Node.js, React and React Native.
+- :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
+- :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.
 
+----
+Credits: [weltonfelix](https://github.com/weltonfelix)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-</En este momento estoy trabajando en mi portafolio>
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+Last Edited on: 31/08/2020
