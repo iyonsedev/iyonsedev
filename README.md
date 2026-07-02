@@ -5,9 +5,9 @@
 
 Hi, I'm iyonse, a Computer Science student passionate about development and technology.
 
-- :books: I’m currently learning cybersecurity, networks, Software Engineering.
+- :books: I’m currently learning cybersecurity, networks and Software Engineering.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-- :pushpin: Interests: Artificial intelligence, Cloud Computing, Hacking.
+- :pushpin: Interests: Artificial intelligence, Cloud Computing, Hacking and cybersecurity.
 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
@@ -16,4 +16,4 @@ Hi, I'm iyonse, a Computer Science student passionate about development and tech
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-
+<div align="center">
