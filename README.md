@@ -11,7 +11,7 @@ Hi, I'm iyonse, a computer science student passionate about development and tech
 
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=iyonsedev=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=iyonsedevplastic&color=blueviolet" alt = "Profile Views"/>
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
