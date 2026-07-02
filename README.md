@@ -1,5 +1,5 @@
 ## Iyonsedev
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.iyonseuchiha@gmail.com)](mailto:contato.iyonseuchiha@gmail.com)
+[<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.iyonseuchiha@gmail.com" />](mailto:contato.iyonseuchiha@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yeison-marte-579647195/)
 
 Hi, I'm iyonse, a Computer Science student passionate about development and technology.
