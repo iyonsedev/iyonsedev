@@ -1,6 +1,6 @@
 ## Iyonsedev
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.iyonseuchiha@gmail.com)](mailto:contato.iyonseuchiha@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/yeisonmarte)](https://dev.to/yeisonmarte)
+[![Linkedin](yeisonmarte)](https://dev.to/yeisonmarte)
 
 Hi, I'm iyonse, a Computer Science student passionate about development and technology.
 
