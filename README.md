@@ -1,7 +1,7 @@
 ## Iyonse.dev
 
  <a href="https://www.linkedin.com/in/yeison-marte-579647195/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:yeisonmarte1599@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:yeisonmarte1599@gmail.com?subject=Hi%20iyonse%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
 Hi, I'm iyonse, a computer science student passionate about development and technology.
 
